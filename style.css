@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    background-color: #CAADE6;
+}
+
+header {
+    height: 84px;
+    background-color: #610588;
+}
+
+.img_topo {
+    padding: 0px 0px 0px 80px;
+}
+
+li a {
+    color: white;
+    font-size: 20px;
+    padding: 0px 0px 0px 120px;
+}
+
+h1 {
+    color: #610588;
+    font-size: 64px;
+    text-align: center;
+    padding: 80px 0px 20px 0px;
+}
+
+p {
+    padding: 0px 80px 0px 80px;
+    color: #610588;
+    font-size: 26px;
+    text-align: justify;
+}
+
+.img-mulher {
+    padding: 20px 50px 80px 80px;
+}
+
+.secao1 {
+    background-color: #610588;
+}
+
+.img-logo {
+    padding: 30px 20px 70px 80px;
+}
+
+h2 {
+    padding: 0px 50px 20px 80px;
+    color: white;
+    font-size: 28px;
+    text-align: center;
+}
+
+.texto_secao {
+    padding: 0px 80px 50px 80px;
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
+
+footer {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    background-color: #AA79DC;
+    padding: 20px;
+}
